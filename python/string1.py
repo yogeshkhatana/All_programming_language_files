@@ -1,0 +1,11 @@
+a='pikachu'
+b="Gujjar"
+print(a[:])
+print(a[0:])
+print(a[:5])
+print(a[2:])
+length=len(a)
+print(length)
+print(len(b))
+print(a)
+print(b)

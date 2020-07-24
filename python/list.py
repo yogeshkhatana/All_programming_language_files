@@ -1,0 +1,13 @@
+a=[1,2,3,4,5]
+print(a)
+colors=["red","green","yellow","blue","white"]
+print(colors)
+print(a[:])
+print(colors[:])
+print(colors[1:])
+print(colors[:4])
+print(colors[2:4])
+colors=colors+["orange","violet","white"]
+print(colors)
+add=[]
+print(add)
