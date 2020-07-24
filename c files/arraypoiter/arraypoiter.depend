@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586781060 source:c:\users\yogesh khatana\arraypoiter\main.c
+	<stdio.h>
+	<stdlib.h>
+

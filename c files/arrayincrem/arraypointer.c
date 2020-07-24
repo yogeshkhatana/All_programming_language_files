@@ -1,0 +1,5 @@
+void arraypointer()
+{
+
+printf("sjnkknnnkbkbjkjkn");
+}

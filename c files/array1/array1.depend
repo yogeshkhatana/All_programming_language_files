@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586445967 source:c:\users\yogesh khatana\array1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586446290 source:c:\users\yogesh khatana\array1\arrayincrement.c
+	<stdio.h>
+	<stdlib.h>
+
